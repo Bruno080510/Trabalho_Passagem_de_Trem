@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1668801648 source:c:\users\maquina 09\desktop\trem\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1669007235 source:c:\users\bruno\onedrive\Área de trabalho\trem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1669051458 source:c:\users\c108\desktop\tremtiaguinho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1669140779 source:c:\users\maquina 09\desktop\tremzaodothiagopassando\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1669166946 source:c:\users\bruno\onedrive\Área de trabalho\tremzaodothiagopassando404040\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1669168413 source:c:\users\bruno\onedrive\Área de trabalho\trabalho_do_trem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
